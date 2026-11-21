@@ -1,0 +1,1 @@
+web: gunicorn monolit_app:app
